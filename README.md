@@ -1,6 +1,5 @@
 # depression-detection
 
-Overview
 This project focuses on developing a Machine Learning (ML) web application for depression detection using Natural Language Processing (NLP). The application integrates ASP.NET for the frontend and Python Flask for the backend API, providing user engagement features with therapists and progress tracking functionality.
 
 Key Features

@@ -38,8 +38,10 @@ relationships within the text data. Evaluate the model's performance by predicti
 # Algorithms
 
 Multinomial Naive Bayes: A classification algorithm suitable for binary and multiclass classification, used for predicting the likelihood of depression based on text data.
+
 # Key Features
 
+Login, different user types, Text analysis, depression detection using AI, connect with therapists, show patients info for therapists, accept/reject them.
 
 # Frameworks, Libraries, and Dependencies
 
